@@ -1,0 +1,10 @@
+main: fr.swoking.bungeetp.Main
+name: ZoneTeleport
+version: 0.0.1
+author: Swoking
+description: 
+commands:
+    setZone:
+        description: Créer une zone de téléportation.
+        
+permissions:
